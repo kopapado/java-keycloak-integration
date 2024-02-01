@@ -1,4 +1,4 @@
-rest-authz-resource-server: Spring Boot REST Service Protected Using Keycloak Authorization Services
+Spring Boot REST Service Protected Using Keycloak Authorization Services
 ===================================================
 
 Level: Beginner
